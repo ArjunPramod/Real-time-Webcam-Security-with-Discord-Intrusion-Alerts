@@ -2,6 +2,8 @@
 Real-time Object and Person Detection using Pre-trained Keras Model
 This program utilizes a pre-trained Keras model to classify real-time images from a webcam. It accurately identifies objects and people, providing confidence scores for the results. Designed with security purposes in mind, it proves particularly useful in settings such as schools and offices.
 
+<img src="https://github.com/ArjunPramod/Atro-Keras-Security-Cam/assets/118660983/0318e437-5877-4dfe-85f3-a87f2ea3634a" alt="image" width="500" height="256">
+
 ## Requirements
 - Python 3
 - TensorFlow
