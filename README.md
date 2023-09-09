@@ -41,7 +41,7 @@ Customize the system to meet your specific requirements:
 
 ## Credits
 
-This innovative security project was crafted by Arjun Pramod and is publicly available on [GitHub](https://github.com/ArjunPramod/Real-time-Webcam-Security-with-Discord-Intrusion-Alerts).
+This innovative security project was crafted by Arjun Pramod and is publicly available on [GitHub](https://github.com/ArjunPramod).
 
 If you have questions or encounter any issues, please don't hesitate to [open an issue](https://github.com/ArjunPramod/Real-time-Webcam-Security-with-Discord-Intrusion-Alerts/issues).
 
